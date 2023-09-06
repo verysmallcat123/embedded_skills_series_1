@@ -1,7 +1,7 @@
 ******************************************************************************
                   MSP430 Linker PC v21.6.1                     
 ******************************************************************************
->> Linked Wed Sep  6 12:08:30 2023
+>> Linked Wed Sep  6 17:56:05 2023
 
 OUTPUT FILE NAME:   <embedded_skills_series.out>
 ENTRY POINT SYMBOL: "_c_int00_noinit_noargs_mpu"  address: 00004400
