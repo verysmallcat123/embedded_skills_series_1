@@ -1,7 +1,7 @@
 ******************************************************************************
                   MSP430 Linker PC v21.6.1                     
 ******************************************************************************
->> Linked Wed Sep  6 17:56:05 2023
+>> Linked Sat Sep  9 16:45:45 2023
 
 OUTPUT FILE NAME:   <embedded_skills_series.out>
 ENTRY POINT SYMBOL: "_c_int00_noinit_noargs_mpu"  address: 00004400
@@ -250,12 +250,12 @@ MODULE SUMMARY
     +--+------------------+------+---------+---------+
        Total:             122    2         0      
                                                   
-    C:\ti\ccs1230\ccs\ccs_base\msp430\lib\FR59xx\MSPMPU_INIT_LIB_CCS_msp430_large_code_restricted_data.lib
+    C:\ti\ccs1240\ccs\ccs_base\msp430\lib\FR59xx\MSPMPU_INIT_LIB_CCS_msp430_large_code_restricted_data.lib
        mpu_init.o         44     0         0      
     +--+------------------+------+---------+---------+
        Total:             44     0         0      
                                                   
-    C:\ti\ccs1230\ccs\tools\compiler\ti-cgt-msp430_21.6.1.LTS\lib\rts430x_lc_rd_eabi.lib
+    C:\ti\ccs1240\ccs\tools\compiler\ti-cgt-msp430_21.6.1.LTS\lib\rts430x_lc_rd_eabi.lib
        boot.c.obj         24     2         0      
        isr_trap.asm.obj   8      0         0      
        exit.c.obj         6      0         0      
